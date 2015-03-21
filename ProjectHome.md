@@ -1,0 +1,1 @@
+See http://speter.net/go/exp/math/dec/inf
